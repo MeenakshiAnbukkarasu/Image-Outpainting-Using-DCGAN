@@ -8,7 +8,7 @@
       sh prepare_data.sh
       ```
 2. Build Model
-    * To build Model from scratch you can directly run 'outpaint.ipynb'
+    * To build Model from scratch you can directly run 'outpaint.py'
   <br/>OR<br/>
 
 ## References
